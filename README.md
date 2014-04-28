@@ -3,7 +3,7 @@ MS Office Metadata Cleaner
 
 ## Description ##
 Removes personal credentials (document author, company name etc.) from Microsoft Office files.  
-Automatic files scan in all system drives. Design to run as scheduled task.  
+Automatic files scan in all system drives. Designed to run as scheduled task.  
 
 Cleans MS Office registry keys:  
   hkcu:Software\Microsoft\Office\Common\UserInfo\Company  
