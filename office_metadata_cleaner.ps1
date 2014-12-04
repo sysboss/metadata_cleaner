@@ -1,6 +1,6 @@
 # -------------------------------------------------
 # MS Office Meta data cleaner
-# Copyright (c) 2014 Alexey Baikov <sysboss@mail.ru>
+# Copyright (c) 2014 Alexey Baikov <sysboss[at]mail.ru>
 #
 # Remove Personal Document Information
 # -------------------------------------------------
